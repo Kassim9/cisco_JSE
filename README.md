@@ -1,18 +1,17 @@
 # cisco_JSE
 # Prepared by Jean René MUNYESHYAKA
 
-Dear CISCO JSE trainees
-
-I'm writing to inform your that, all assignment from our course Java Script Essentials and any other Java Script course that may follow in the coming days; shall be uploaded using github.com to this repository. Take time to read the read me file to know the current assignment. Now, you need to fork my account and clone the cisco_JSE repository ...to your computer. In that folder you'll place locally all your CISCO JSE assignments (offline) and push to the remote (upload) when you're ready to submit.
-
 The first assignment to be upload here, will be:
+
 // QUESTION 1
+
 console.log(2 + 3 * 1);
 console.log(2 ** 4);
 console.log(5 * 1);
 console.log(8 * 2 + 5 * 2);
 
 // QUESTION 2
+
 console.log(4 * 5 === 20);
 console.log(6 * 5 == &quot;30&quot;);
 console.log(-17 &lt; 0);
@@ -20,6 +19,7 @@ console.log(25 &gt; 1);
 console.log(2 + 2 * 2 != 4);
 
 // QUESTION 3
+
 console.log(true || false);
 console.log(false || !false);
 console.log(false || false || true);
